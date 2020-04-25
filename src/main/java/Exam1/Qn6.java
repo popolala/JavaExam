@@ -7,11 +7,16 @@ public class Qn6 {
         String url = "jdbc:oracle:thin:@localhost:1521:orcl";
         String user = "c##tempUser";
         String password = "weijieno1";
-        String query = "DELETE FROM MESSAGES";
+        String query = "select * from MESSAGES";
         try (Connection con = DriverManager.getConnection(url, user, password);
              Statement stmt = con.createStatement())
         {
             System.out.println(stmt.execute(query));
+            ResultSet rs = stmt.getResultSet();
+
+            while(rs.next()) {
+                System.out.println("here");
+            }
         }
     }
 }

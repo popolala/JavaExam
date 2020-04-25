@@ -14,4 +14,8 @@ repositories {
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile fileTree(dir: 'libs', include: ['*.jar'])
+    implementation files('/RB_en_US.properties')
+    implementation files('/RB_en.properties')
+    implementation files('/RB.properties')
+
 }
