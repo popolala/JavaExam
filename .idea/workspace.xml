@@ -1,25 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cb56b887-d535-4466-a9b6-e18519e11653" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+>>>>>>> 8f625118987deaf9abc8ea745e8eb2ee594a66d9
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Printerr3.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn77.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn77.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn27.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn27.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Exam1/Qn77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exam1/Qn77.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/A$1B.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/A$1B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/ConnectionDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/ConnectionDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Document.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Document.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Flags.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Flags.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Inheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Inheritance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Match.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Match.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/MyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/MyResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/MyResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Printerr.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Printerr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Printerr1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Printerr1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Printerr2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Printerr2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Printerr3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn10.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn11.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn12.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn13.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn15.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn16.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn17.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn18.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn20.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn21_$I1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn21_$I1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn21_$c1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn21_$c1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn21_$c2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn21_$c2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn21_$c3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn21_$c3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn21_.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn21_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn22.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn24.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn26.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn27.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn28_JDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn28_JDBC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn29.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn32.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn35.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn35.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn36.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn36.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn37.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn37.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn38.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn38.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn39$N.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn39$N.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn39.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn39.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn41.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn41.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn42.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn42.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn45.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn45.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn46.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn46.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn47$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn47$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn47.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn47.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn49_.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn49_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn50.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn50.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn53.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn53.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn55.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn55.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn56.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn56.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn59.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn59.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn60.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn60.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn61.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn61.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn62.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn62.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn63.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn63.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn64.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn64.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn65.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn65.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn69.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn69.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn74.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn74.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn75.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn75.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn76.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn76.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn77.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn77.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn81.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn81.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn86.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn86.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn89.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn89.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn9.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Qn9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/RFP.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/RFP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Resource1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Resource1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Resource2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Resource2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/ShapeType.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/ShapeType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/StringConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/StringConsumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam1/qn73.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam1/qn73.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Certification.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Certification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/ConnectionDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/ConnectionDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Printer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Printer1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Printer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Printer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Printer3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Printer3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn11.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn19_.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn19_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn20.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn26.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn27.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn9.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Exam2/Qn9.class" afterDir="false" />
+>>>>>>> 8f625118987deaf9abc8ea745e8eb2ee594a66d9
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +157,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -40,36 +168,14 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Exam" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Exam" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Exam" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Exam" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -171,6 +277,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> 8f625118987deaf9abc8ea745e8eb2ee594a66d9
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -191,6 +299,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -324,17 +433,24 @@
         </subPane>
       </pane>
     </panes>
+=======
+  <component name="ProjectId" id="1b28W1C8YZlak3WUG0xoba3jyju" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+>>>>>>> 8f625118987deaf9abc8ea745e8eb2ee594a66d9
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ojdbc8-19.3.0.0.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -347,6 +463,7 @@
       <recent name="C:\Users\lol\Desktop\Java Exam\src\main\java" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -362,6 +479,11 @@
   <component name="RunManager" selected="Application.Qn12">
     <configuration name="Qn12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exam3.Qn12" />
+=======
+  <component name="RunManager" selected="Application.Qn31">
+    <configuration name="Qn26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam2.Qn26" />
+>>>>>>> 8f625118987deaf9abc8ea745e8eb2ee594a66d9
       <module name="Exam.main" />
       <extension name="coverage">
         <pattern>
@@ -386,12 +508,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Qn76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exam3.Qn76" />
       <module name="Exam.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exam3.*" />
+=======
+    <configuration name="Qn29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam2.Qn29" />
+      <module name="Exam.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam2.*" />
+>>>>>>> 8f625118987deaf9abc8ea745e8eb2ee594a66d9
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,8 +530,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Qn84" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exam3.Qn84" />
+=======
+    <configuration name="Qn31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam2.Qn31" />
+>>>>>>> 8f625118987deaf9abc8ea745e8eb2ee594a66d9
       <module name="Exam.main" />
       <extension name="coverage">
         <pattern>
@@ -412,12 +548,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Qn87" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exam3.Qn87" />
       <module name="Exam.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exam3.*" />
+=======
+    <configuration name="Qn6 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam1.Qn6" />
+      <module name="Exam.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam1.*" />
+>>>>>>> 8f625118987deaf9abc8ea745e8eb2ee594a66d9
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -427,11 +572,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Qn12" />
         <item itemvalue="Application.Qn87" />
         <item itemvalue="Application.Qn84" />
         <item itemvalue="Application.Qn76" />
         <item itemvalue="Application.Qn75" />
+=======
+        <item itemvalue="Application.Qn31" />
+        <item itemvalue="Application.Qn29" />
+        <item itemvalue="Application.Qn27" />
+        <item itemvalue="Application.Qn26" />
+        <item itemvalue="Application.Qn6 (1)" />
+>>>>>>> 8f625118987deaf9abc8ea745e8eb2ee594a66d9
       </list>
     </recent_temporary>
   </component>
@@ -475,6 +628,7 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="84395000" />
   </component>
+<<<<<<< HEAD
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
@@ -510,8 +664,51 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
+=======
+>>>>>>> 8f625118987deaf9abc8ea745e8eb2ee594a66d9
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="250" y="0" key="#Project_Structure" timestamp="1587819002889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="250" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1587819002889" />
+    <state width="1493" height="147" key="GridCell.Tab.0.bottom" timestamp="1587827283877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="147" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587827283877" />
+    <state width="1493" height="147" key="GridCell.Tab.0.center" timestamp="1587827283877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="147" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587827283877" />
+    <state width="1493" height="147" key="GridCell.Tab.0.left" timestamp="1587827283877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="147" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587827283877" />
+    <state width="1493" height="147" key="GridCell.Tab.0.right" timestamp="1587827283877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="147" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587827283877" />
+    <state x="250" y="0" key="SettingsEditor" timestamp="1587819026781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="250" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587819026781" />
+    <state x="491" y="155" width="540" height="524" key="StructurePopup" timestamp="1587819162358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="155" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1587819162358" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -519,37 +716,31 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Exam1/Qn24.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Exam1/Qn55.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Exam1/Qn81.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Exam1/Qn81.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Exam2/Qn3.java</url>
           <line>46</line>
-          <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Exam1/Qn6.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -567,6 +758,7 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Exam3/Qn18.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1056,4 +1248,6 @@
       </state>
     </states>
   </component>
+=======
+>>>>>>> 8f625118987deaf9abc8ea745e8eb2ee594a66d9
 </project>
