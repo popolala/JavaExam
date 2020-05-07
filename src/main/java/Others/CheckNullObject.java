@@ -26,15 +26,18 @@ public class CheckNullObject {
         linkedList.add(null);
         System.out.println("LinkedList is "+linkedList);
 
-        //no working
-        Deque<String> deque = new ArrayDeque<String>(list); //Line n2
-        deque.add(null);
-        System.out.println("Deque is "+deque);
 
         //no working
         Set<String> treeSet = new TreeSet<>();
         treeSet.add(null);
         System.out.println("TreeSet is "+set);
+
+        //no working
+        Deque<String> deque = new ArrayDeque<String>(list); //Line n2
+        deque.add(null);
+        System.out.println("Deque is "+deque);
+
+
 
     }
 }
